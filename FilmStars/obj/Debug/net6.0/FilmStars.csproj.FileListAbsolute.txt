@@ -1,0 +1,15 @@
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\FilmStars\FilmStars\bin\Debug\net6.0\FilmStars.exe
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\FilmStars\FilmStars\bin\Debug\net6.0\FilmStars.deps.json
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\FilmStars\FilmStars\bin\Debug\net6.0\FilmStars.runtimeconfig.json
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\FilmStars\FilmStars\bin\Debug\net6.0\FilmStars.dll
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\FilmStars\FilmStars\bin\Debug\net6.0\ref\FilmStars.dll
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\FilmStars\FilmStars\bin\Debug\net6.0\FilmStars.pdb
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\FilmStars\FilmStars\obj\Debug\net6.0\FilmStars.csproj.AssemblyReference.cache
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\FilmStars\FilmStars\obj\Debug\net6.0\FilmStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\FilmStars\FilmStars\obj\Debug\net6.0\FilmStars.AssemblyInfoInputs.cache
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\FilmStars\FilmStars\obj\Debug\net6.0\FilmStars.AssemblyInfo.cs
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\FilmStars\FilmStars\obj\Debug\net6.0\FilmStars.csproj.CoreCompileInputs.cache
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\FilmStars\FilmStars\obj\Debug\net6.0\FilmStars.dll
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\FilmStars\FilmStars\obj\Debug\net6.0\ref\FilmStars.dll
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\FilmStars\FilmStars\obj\Debug\net6.0\FilmStars.pdb
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\FilmStars\FilmStars\obj\Debug\net6.0\FilmStars.genruntimeconfig.cache
