@@ -20,5 +20,22 @@ namespace FilmStars
         int ageRating { get; set; }
         String linkToFilm { get; set; }
 
+
+
+
+
+
+
+        private static void FilmSelection()
+        {
+            Console.WriteLine("Please select one of the following to find the film you are looking for:");
+            Console.WriteLine("(1) Title");
+            Console.WriteLine("(2) Genre");
+            Console.WriteLine("(3) Director");
+            Console.WriteLine("(4) Actor/Actress");
+            Console.WriteLine("(5) Language");
+
+            int FilmSearch = Convert.ToInt32(Console.ReadLine());
+        }
     }
 }

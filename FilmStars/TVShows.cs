@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace FilmStars
 {
-    internal class TVShows
+    public class TVShows
     {
+        String title { get; set; }
+        String genre { get; set; }
+        String series { get; set; }
+        String director { get; set; }
+        String mainCast { get; set; }
+        String language { get; set; }
+        String description { get; set; }
+        int lengthOfEpisode { get; set; }
+        int ageRating { get; set; }
+        String linkToEpisode { get; set; }
     }
 }
