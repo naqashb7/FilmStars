@@ -18,5 +18,26 @@ namespace FilmStars
         int lengthOfEpisode { get; set; }
         int ageRating { get; set; }
         String linkToEpisode { get; set; }
+
+
+
+
+        private static void ShowSelection()
+        {
+            Console.WriteLine("Please select one of the following to find the show you are looking for:");
+            Console.WriteLine("(1) Title");
+            Console.WriteLine("(2) Genre");
+            Console.WriteLine("(3) Director");
+            Console.WriteLine("(4) Actor/Actress");
+            Console.WriteLine("(5) Language");
+            Console.WriteLine("(6)");
+
+            int ShowSearch = Convert.ToInt32(Console.ReadLine());
+        }
+
+
+
+
+
     }
 }

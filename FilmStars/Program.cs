@@ -18,7 +18,7 @@ public class program
 
 
         switch (initialSearch) {
-            case 1:
+            case 1: Films.FilmSelection();
                 break;
             case 2:
                 break;
